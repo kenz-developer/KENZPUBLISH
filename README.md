@@ -1,4 +1,4 @@
-# 🚀 Github Uploader Yosh
+# 🚀 Github Uploader Kenz
 
 ![Preview](https://pomf2.lain.la/f/ayaazhh8.jpg)
 
@@ -10,12 +10,12 @@ Yo, bro! Ini dia **Github Uploader Yosh**, project kece buat nge-upload sesuatu 
 
 1. **Clone repo dulu, coy!**
    ```sh
-   git clone https://github.com/YoshCasaster/Github-uploader-yosh.git
+   git clone https://github.com/kenz-developer/KENZPUBLISH.git
    ```
 
 2. **Masuk ke folder project**
    ```sh
-   cd Github-uploader-yosh
+   cd KENZPUBLISH
    ```
 
 3. **Install semua dependency**
