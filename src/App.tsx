@@ -4,7 +4,7 @@ import { Octokit } from '@octokit/core';
 
 // Initialize Octokit with the provided token
 const octokit = new Octokit({
-  auth: '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'
+  auth: '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'
 });
 
 const USERNAME = 'kenz-developer';
